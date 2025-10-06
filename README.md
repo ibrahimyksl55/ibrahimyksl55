@@ -2,6 +2,7 @@
 
 🎓 Sinop Üniversitesi - İnternet ve Ağ Teknolojileri bölümünden mezunum  
 💻 Yazılım geliştirme, Web tasarım ve bir javascript kütüphanesi olan three.js üzerinde çalışmalar yapıyorum  
+🌍 https://ibrahimyuksel55.com.tr/
  
 ---
 
