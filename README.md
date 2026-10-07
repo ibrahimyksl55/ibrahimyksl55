@@ -26,8 +26,6 @@
 - 🌐 [INTERNET-PROGRAMLAMA-FINAL-ODEVI](https://github.com/ibrahimyksl55/INTERNET-PROGRAMLAMA-FINAL-ODEVI) — Web teknolojileri kullanılarak hazırlanmış internet programlama dersi final ödevi.  
 - 🚗 [3B_Araba_Modifikasyon_Uygulamasi](https://github.com/ibrahimyksl55/3B_Araba_Modifikasyon_Uygulamasi) — Three.js / WebGL benzeri teknolojilerle üç boyutlu araba modifikasyon simülasyonu uygulaması.  
 - 🚗 [3B_ARABA_MODIFIKASYON_UYGULAMASI_FINAL](https://github.com/ibrahimyksl55/3B_ARABA_MODIFIKASYON_UYGULAMASI_FINAL) — Önceki uygulamanın daha gelişmiş final versiyonu; ekstra özellikler ve iyileştirmeler içeriyor.  
-- 🌍 [TUR-PLANLAMA-SITES-](https://github.com/ibrahimyksl55/TUR-PLANLAMA-SITES-) — Balkan ülkeleri kültür turları için planlama sitesi; kullanıcı tur rotalarını inceleyip bilgi alabiliyor.  
-
 
 ---
 
