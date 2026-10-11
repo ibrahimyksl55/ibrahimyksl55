@@ -20,7 +20,7 @@
 ---
 
 ## 📌 Öne Çıkan Projelerim
-
+- 🔔 [KAMU-ILAN-TAKIP](https://github.com/ibrahimyks155/KAMU-ILAN-TAKIP) — SBB ve resmi kaynakları tarayan, mükerrer kayıtları engelleyen ve nitelik kodlarına göre akıllı filtreleme yaparak Telegram bildirimleri gönderen sistem.
 - 🔧 [final-projesi-237017006](https://github.com/ibrahimyksl55/final-projesi-237017006) — C# ile geliştirilmiş final projesi; uygulama arka planında … işlemleri yapar.  
 - 💼 [b-t-projesi-237017006](https://github.com/ibrahimyksl55/b-t-projesi-237017006) — Büt proje örneği; temel finansal hesaplama ve yönetim fonksiyonları içeriyor.  
 - 🌐 [INTERNET-PROGRAMLAMA-FINAL-ODEVI](https://github.com/ibrahimyksl55/INTERNET-PROGRAMLAMA-FINAL-ODEVI) — Web teknolojileri kullanılarak hazırlanmış internet programlama dersi final ödevi.  
